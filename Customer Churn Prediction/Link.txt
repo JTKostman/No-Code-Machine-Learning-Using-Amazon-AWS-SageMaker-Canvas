@@ -1,0 +1,1 @@
+Link to Original Data : https://www.kaggle.com/c/customer-churn-prediction-2020/data?select=train.csv
